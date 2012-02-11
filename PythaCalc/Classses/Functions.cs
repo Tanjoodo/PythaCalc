@@ -33,5 +33,17 @@ namespace PythaCalc
             return hypo;
 
         }
+        public static double findSide(double num1, double num2)
+        {
+            double num1p, num2p;
+
+            num1p = num1 * num1;
+            num2p = num2 * num2;
+
+            if (num1p > num2p) return Math.Sqrt(num1p - num2p);
+            else if (num1p < num2p) return Math.Sqrt(num2p - num1p);
+            else return -1;
+        }
+
     }
 }

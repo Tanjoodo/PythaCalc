@@ -51,5 +51,34 @@ namespace PythaCalc
                     "Result", MessageBoxButton.OK, MessageBoxImage.Information);                 
             }
         }
+
+        private void sideButton_Click(object sender, RoutedEventArgs e)
+        {
+
+            if ((sideBox1.Text == "") || (sideBox2.Text == "")) MessageBox.Show("Please enter all required fields.", "Error",
+                                                                                MessageBoxButton.OK, MessageBoxImage.Error);
+            else
+            {
+                if (Functions.findSide(Convert.ToDouble(sideBox1.Text), Convert.ToDouble(sideBox2.Text)) < 0)
+                {
+                    MessageBox.Show("There's something wrong, it will probably be fixed soon.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+                else
+                {
+                    MessageBox.Show("Result is: " + Convert.ToString(Functions.findSide(Convert.ToDouble(sideBox1.Text), Convert.ToDouble(sideBox2.Text))), "Result",
+                                     MessageBoxButton.OK, MessageBoxImage.Information);
+                }
+            }
+                
+
+        }
+
+     
+
+       
+
+     
+
+        
     }
 }
