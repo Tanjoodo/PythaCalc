@@ -36,6 +36,7 @@ namespace PythaCalc
                     Convert.ToDouble(findOutBox3.Text)))
                 {
                     MessageBox.Show("The triangle is a right one", "Result", MessageBoxButton.OK, MessageBoxImage.Information);
+                    // This is a comment
                 }
             }
         }
