@@ -23,5 +23,21 @@ namespace PythaCalc
         {
             InitializeComponent();
         }
+
+        private void findOutButton_Click(object sender, RoutedEventArgs e)
+        {
+            if ((findOutBox1.Text == "") || (findOutBox2.Text == "") || (findOutBox3.Text == ""))
+                MessageBox.Show("Please enter all required fields.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+
+            else
+            {
+                if (Functions.findOut(Convert.ToDouble(findOutBox1.Text),
+                    Convert.ToDouble(findOutBox2.Text),
+                    Convert.ToDouble(findOutBox3.Text)))
+                {
+                    MessageBox.Show("The triangle is a right one", "Result", MessageBoxButton.OK, MessageBoxImage.Information);
+                }
+            }
+        }
     }
 }
