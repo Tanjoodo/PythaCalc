@@ -21,5 +21,17 @@ namespace PythaCalc
             else return false;
             
         }
+
+        public static double findHypo(double num1, double num2)
+        {
+            double num1p, num2p, hypo;
+            num1p = num1 * num1;
+            num2p = num2 * num2;
+
+            hypo = Math.Sqrt(num1p + num2p);
+
+            return hypo;
+
+        }
     }
 }

@@ -36,8 +36,19 @@ namespace PythaCalc
                     Convert.ToDouble(findOutBox3.Text)))
                 {
                     MessageBox.Show("The triangle is a right one", "Result", MessageBoxButton.OK, MessageBoxImage.Information);
-                    // This is a comment
+                   
                 }
+            }
+        }
+
+        private void hypoButton_Click(object sender, RoutedEventArgs e)
+        {
+            if ((hypoBox1.Text == "") || (hypoBox2.Text == "")) MessageBox.Show("Please enter all required fields.", "Error",
+                                                                                MessageBoxButton.OK, MessageBoxImage.Error);
+            else
+            {
+                MessageBox.Show("Result is: " + Convert.ToString(Functions.findHypo(Convert.ToDouble(hypoBox1.Text), Convert.ToDouble(hypoBox2.Text))),
+                    "Result", MessageBoxButton.OK, MessageBoxImage.Information);                 
             }
         }
     }
