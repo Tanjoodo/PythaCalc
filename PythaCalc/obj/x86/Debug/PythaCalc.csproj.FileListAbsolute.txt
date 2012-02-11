@@ -1,0 +1,28 @@
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\bin\Debug\PythaCalc.exe
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\bin\Debug\PythaCalc.pdb
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\MainWindow.baml
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\App.g.cs
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\PythaCalc_MarkupCompile.cache
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\PythaCalc.g.resources
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\PythaCalc.Properties.Resources.resources
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\PythaCalc.exe
+C:\Users\Mohammed\AppData\Local\Temporary Projects\PythaCalc\obj\x86\Debug\PythaCalc.pdb
+C:\Users\Mohammed\PythaCalc\PythaCalc\PythaCalc\obj\x86\Debug\PythaCalc.exe
+C:\Users\Mohammed\PythaCalc\PythaCalc\PythaCalc\obj\x86\Debug\PythaCalc.pdb
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\PythaCalc.exe
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\PythaCalc.pdb
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\MainWindow.baml
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\App.g.cs
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\PythaCalc_MarkupCompile.cache
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\PythaCalc.g.resources
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\PythaCalc.Properties.Resources.resources
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mohammed\PythaCalc\PythaCalc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mohammed\PythaCalc\PythaCalc\bin\Debug\PythaCalc.exe
+C:\Users\Mohammed\PythaCalc\PythaCalc\bin\Debug\PythaCalc.pdb
