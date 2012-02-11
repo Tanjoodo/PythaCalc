@@ -1,1 +1,1 @@
-PythaCalc is a simple program that applies the Pythagorean law.
+PythaCalc is a simple WPF program that applies the Pythagorean law.
