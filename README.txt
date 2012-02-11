@@ -1,0 +1,1 @@
+PythaCalc is a simple program that applies the Pythagorean law.
