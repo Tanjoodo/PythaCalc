@@ -8,7 +8,7 @@ namespace PythaCalc
         // This is the function that figures out whether a triangle is right or not based on its side's lengths.
         public static bool findOut(double num1, double num2, double num3)
         {
-            // doing some serious power stuff.
+            // doing some serious exponentials stuff.
             double num1p, num2p, num3p;
             num1p = num1 * num1;
             num2p = num2 * num2;
@@ -18,7 +18,7 @@ namespace PythaCalc
             if ((num1 > num2) && (num1 > num3) && (num1p == (num2p + num3p))) return true;
             else if ((num2 > num1) && (num2 > num3) && (num2p == (num1p + num3p))) return true;
             else if ((num3 > num2) && (num3 > num1) && (num3p == (num1p + num2p))) return true;
-            // this line isn't accurate, as there's the possibility of two sides having the same value.
+            // This line isn't accurate, as there's the possibility of two sides having the same value.
             else return false;
             
         }
